@@ -1,2 +1,5 @@
-# Midterm-Inventory-Management
-Midterm Project for High Quality Software Programming 
+Midterm Exam for High Quality Software Programming 
+
+Name : Vineeth Kanoor
+
+ID : 8976015
